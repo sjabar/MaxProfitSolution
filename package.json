@@ -1,0 +1,12 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "maxProfitSolution.js",
+  "scripts": {
+    "start": "node maxProfitSolution.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
